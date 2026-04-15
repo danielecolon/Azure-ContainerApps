@@ -10,10 +10,12 @@ Daniel Colón has expertise in cloud, infrastructure, and systems integration ob
 -->
 
 ### YouTube
-[Azure Container Apps](https://www.youtube.com/watch?v=2ug361lOkvQ&t=303s)
+[Azure Container Apps - Introduction](https://www.youtube.com/watch?v=2ug361lOkvQ&t=303s)<br>
+[Azure Container Apps - Advanced Features](https://www.youtube.com/watch?v=NRhEvT7CSa4&t=649s)
 
 ### Slides
-[Azure Container Apps - Introduction.pdf](Azure%20Container%20Apps%20-%20Introduction.pdf)
+[Azure Container Apps - Introduction.pdf](Azure%20Container%20Apps%20-%20Introduction.pdf)<br>
+[Azure Container Apps - Advanced Features v2.pdf](Azure%20Container%20Apps%20-%20Advanced%20Features%20v2.pdf)
 
 ### Tags
 Cloud Computing<br>
